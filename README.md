@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-# Hi there, I'm Nhân! 👋
-
-I am a **Software Developer** dedicated to building clean, scalable, and impactful digital solutions. [cite_start]My approach to development is often guided by a blend of technical precision and the **dialectical thinking** of historical materialism—always looking at the evolution of systems and the connections within. 
+I'm **Nhan**, a **Software Developer** dedicated to building clean, scalable, and impactful digital solutions. [cite_start]My approach to development is often guided by a blend of technical precision and the **dialectical thinking** of historical materialism—always looking at the evolution of systems and the connections within. 
 
 ### Technical Arsenal
 
@@ -29,7 +27,7 @@ I've had the privilege of contributing to international projects in:
 ---
 
 **Connect with me:**
-[LinkedIn]([link_linkedin_cua_ban](https://www.linkedin.com/in/nh%C3%A2n-l%C3%AA-62bb0b3a5/)) | [cite_start][Email](mailto:lethanhnhan912004@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nh%C3%A2n-l%C3%AA-62bb0b3a5/) | [Email](mailto:lethanhnhan912004@gmail.com)
 
 <!--
 **LeThanhNhan91/LeThanhNhan91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
