@@ -14,7 +14,7 @@ I'm **Nhan**, a **Software Developer** dedicated to building clean, scalable, an
 * **[EduTrailBlaze](https://github.com/Edu-Trailblaze):** An E-commerce online learning platform featuring real-time interactions with SignalR. 
 * **Aloha VietNam:** A React Native mobile app designed for foreign tourists to explore Vietnam. 
 
-### The 5-Year Vision
+### The 10-Year Vision
 
 My journey is currently focused on mastering the Fullstack ecosystem. [cite_start]I am actively refining my development workflows with the long-term goal of evolving into a **Technical Lead or Project Manager**. 
 
