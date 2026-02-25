@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Nhan**, a **Software Developer** dedicated to building clean, scalable, and impactful digital solutions. [cite_start]My approach to development is often guided by a blend of technical precision and the **dialectical thinking** of historical materialism—always looking at the evolution of systems and the connections within. 
+I'm **Nhan**, a **Software Developer** dedicated to building clean, scalable, and impactful digital solutions.My approach to development is often guided by a blend of technical precision and the **dialectical thinking** of historical materialism—always looking at the evolution of systems and the connections within. 
 
 ### Technical Arsenal
 
@@ -16,7 +16,7 @@ I'm **Nhan**, a **Software Developer** dedicated to building clean, scalable, an
 
 ### The 10-Year Vision
 
-My journey is currently focused on mastering the Fullstack ecosystem. [cite_start]I am actively refining my development workflows with the long-term goal of evolving into a **Technical Lead or Project Manager**. 
+My journey is currently focused on mastering the Fullstack ecosystem. I am actively refining my development workflows with the long-term goal of evolving into a **Technical Lead or Project Manager**. 
 
 ### Global Experience
 
